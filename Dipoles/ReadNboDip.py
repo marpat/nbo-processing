@@ -14,12 +14,12 @@ python ReadNboDip.py ./dipole/form.nbo
 """
 
 # author:   'Marcel Patek'
-# filename: 'test.py'
+# filename: 'ReadNboDip.py'
 # date:      1/1/2015
 # version:  '1.0'
 # email:    'chemgplus@gmail.com'
-# license:  'GNU3'
-# usage:    python test.py nbofile.nbo
+# license:  'GNU-GPL3'
+# usage:     python ReadNboDip.py nbofile.nbo
 
 '''
  * Copyright (C) 2015 Marcel Patek
